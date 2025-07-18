@@ -49,6 +49,7 @@ For detailed circuit information, construction procedure, and analysis, refer to
 [📘 Project 1 Report (PDF)](docs/reports-pdf/Project_1.pdf)
 
 ## 💡 Project 2: Voice-Controlled Home Automation
+![Home Automation](images/home_automation.jpg)
 
 ### 📝 Description
 
