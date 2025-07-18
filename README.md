@@ -126,14 +126,12 @@ This project uses the HC-SR04 ultrasonic sensor to measure the distance between 
 For circuit design, LCD interfacing, and project explanation, refer to the full report:  
 [📘 Project 3 Report (PDF)](docs/reports-pdf/Project_3.pdf)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Special thanks to [Robotbanao - (A Brand Of Select)](https://www.linkedin.com/company/robotbanao) for guidance and resources during the project.
 - Inspired by various Arduino and Proteus tutorials available in the open-source community.
 
----
-
-## ©️ Copyright
+## 
 
 © 2025 Sahil Rajpurkar. All rights reserved.  
 Unauthorized commercial use or redistribution of content is prohibited without permission.
